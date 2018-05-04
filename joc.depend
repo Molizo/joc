@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1490591748 source:c:\users\mihneavisoiu\desktop\joc\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<rlutil.h>
+
+1489996128 c:\users\mihneavisoiu\desktop\joc\\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
